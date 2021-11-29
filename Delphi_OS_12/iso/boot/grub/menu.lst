@@ -1,0 +1,3 @@
+title ECODER  OS 0.01
+kernel /boot/kernel.bin
+boot
